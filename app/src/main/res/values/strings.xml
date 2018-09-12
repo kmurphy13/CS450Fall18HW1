@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StopWatch</string>
+    <string name="stop">Stop</string>
+    <string name="start">Start</string>
+    <string name="reset">reset</string>
+    <string name="resume">Resume</string>
+    <string name="doubleZero">00</string>
+</resources>
